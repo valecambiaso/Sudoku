@@ -1,0 +1,2 @@
+-Información sobre qué archivos se consideran válidos-
+El juego considera como válidos aquellos tableros que tienen 9 filas con 9 números comprendidos entre 1 y 9, sin repetición, separados por un único espacio. A lo sumo acepta una décima línea en la que no haya nada, es decir, permite que al final de la novena línea se aprete la tecla enter. Cualquier otro formato lo considera inválido.
